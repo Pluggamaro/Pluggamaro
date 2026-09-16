@@ -19,10 +19,10 @@ Junior Software Developer focused on clean code, practical delivery, and continu
 - **Workflow:** Git, GitHub, REST API fundamentals, responsive UI, maintainable code practices
 
 ## Featured Projects
-- **[Flutter-Frontend(**PRIVATE**Progressive Web App)](https://github.com/Pluggamaro)**  
+- **[Flutter-Frontend(**PRIVATE** Progressive Web App)](https://github.com/Pluggamaro)**  
   Frontend web project focused on UI structure, presentation, and deployment workflow.
 
-- **[Java SB Backend(**PRIVATE**PWA Server](https://github.com/Pluggamaro)**  
+- **[Java SB Backend(**PRIVATE** PWA Server)](https://github.com/Pluggamaro)**  
   Backend Spring Boot project demonstrating Java application structure and service-layer fundamentals.
 
 ## What I Bring
