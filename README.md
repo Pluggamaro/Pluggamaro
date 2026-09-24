@@ -1,4 +1,4 @@
-# Hi, I’m Bongani Xhentsa
+# Bongani Xhentsa
 
 **Building production-minded software across web, backend, and mobile.**  
 Junior Software Developer focused on clean code, practical delivery, and continuous improvement.
