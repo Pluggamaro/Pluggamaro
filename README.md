@@ -15,11 +15,11 @@
 ## About Me
 
 ```java
-public class Velani {
+public class Bongani {
 
     String basedIn = "🇿🇦 South Africa";
     String currentlyAt = "WeThinkCode_";
-    String role = "Software Engineering Student";
+    String role = "Software Engineering Tutor / Student";
 
     String[] focus = {
         "Software Engineering",
@@ -82,7 +82,7 @@ The goal is simple:
 
 ## 🚀 Featured Project
 
-### [MA Health / DA W8](https://github.com/Pluggamaro)
+### [DA W8](https://github.com/Pluggamaro)
 
 > A healthcare queue-management platform designed to reduce waiting times and give patients and staff better visibility into the queue.
 
