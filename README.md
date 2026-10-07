@@ -8,6 +8,8 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Pluggamaro?style=flat-square\&color=FF6B35\&label=FOLLOWERS)](https://github.com/Pluggamaro)
 
+[![Pluggamaro's GitHub stats](https://vercel.app)](https://github.com/Pluggamaro)
+
 </div>
 
 ---
