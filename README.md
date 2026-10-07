@@ -4,11 +4,11 @@
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Pluggamaro\&color=FF6B35\&style=flat-square\&label=PROFILE+VIEWS)](https://github.com/Pluggamaro)
-  
-[![GitHub followers](https://img.shields.io/github/followers/Pluggamaro?style=flat-square\&color=FF6B35\&label=FOLLOWERS)](https://github.com/Pluggamaro)
+[![Profile views](https://komarev.com)](https://github.com)
+[![GitHub followers](https://shields.io)](https://github.com)
+[![Repositories](https://shields.io)](https://github.com?tab=repositories)
 
-[![Pluggamaro's GitHub stats](https://vercel.app)](https://github.com/Pluggamaro)
+[![Pluggamaro's GitHub stats](https://vercel.app)](https://github.com)
 
 </div>
 
