@@ -1,0 +1,26 @@
+name: Update repo count
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Count repos
+        env:
+          REPO_COUNT_TOKEN: ${{ secrets.REPO_COUNT_TOKEN }}
+        run: python3 scripts/count_repos.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: update repo count"
+          git push
