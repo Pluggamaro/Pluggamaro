@@ -1,17 +1,29 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=28\&pause=700\&color=191970\&center=true\&vCenter=true\&width=750\&lines=Blessings!%2C+I'm+Bongani+Xhentsa.;Software+Engineering+Student.;Coding+Tutor;AWS+SBG+Tech+Lead+Trainee;Java+%7C+Python+%7C+Cloud+%7C+Systems;Building+software+that+solves+real+problems.)](https://git.io/typing-svg)
+<img src="https://demolab.com." alt="Typing SVG" />
 
-<br/>
+<hr/>
 
-[![Profile views](https://komarev.com)](https://github.com/Pluggamaro)
-[![GitHub followers](https://shields.io)](https://github.com/Pluggamaro)
-[![Repositories](https://shields.io)](https://github.com)
+<p align="center">
+  <a href="https://github.com/Pluggamaro">
+    <img src="https://komarev.com" alt="Profile views">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Followers">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Repositories">
+  </a>
+</p>
 
-[![Pluggamaro's GitHub stats](https://vercel.app)](https://github.com/Pluggamaro)
-
+<p align="center">
+  <a href="https://github.com/Pluggamaro">
+    <img src="https://vercel.app" alt="Pluggamaro's GitHub stats">
+  </a>
+</p>
 
 </div>
+
 
 ---
 
