@@ -8,7 +8,7 @@
 &nbsp;
 [![committers.top badge](https://user-badge.committers.top/south_africa/Pluggamaro.svg)](https://committers.top/south_africa)
 &nbsp;
-[![WakaTime](https://wakatime.com/badge/user/dddb4f31-40cf-4cc3-8ab4-60495e37689b.svg)](https://wakatime.com/@dddb4f31-40cf-4cc3-8ab4-60495e37689b)
+[![wakatime](https://wakatime.com/badge/user/f11e9a1b-fe6d-400c-ab82-5d14a7e80459.svg)](https://wakatime.com/@f11e9a1b-fe6d-400c-ab82-5d14a7e80459)
 &nbsp;
 ![Repos](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FPluggamaro%2FPluggamaro%2Fmain%2Fdata%2Frepo-count-badge.json&style=flat-square)
 
