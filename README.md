@@ -4,11 +4,12 @@
 
 <br/>
 
-[![Profile views](https://komarev.com)](https://github.com)
-[![GitHub followers](https://shields.io)](https://github.com)
-[![Repositories](https://shields.io)](https://github.com?tab=repositories)
+[![Profile views](https://komarev.com)](https://github.com/Pluggamaro)
+[![GitHub followers](https://shields.io)](https://github.com/Pluggamaro)
+[![Repositories](https://shields.io)](https://github.com)
 
-[![Pluggamaro's GitHub stats](https://vercel.app)](https://github.com)
+[![Pluggamaro's GitHub stats](https://vercel.app)](https://github.com/Pluggamaro)
+
 
 </div>
 
