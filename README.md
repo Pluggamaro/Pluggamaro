@@ -1,26 +1,20 @@
 <div align="center">
 
-<img src="https://demolab.com." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=FF6B35&center=true&vCenter=true&width=720&height=50&lines=Blessings%2C+I'm+Bongani+Xhentsa.;Software+Engineering+Student.;Coding+Super+Tutor.;AWS+Student+Builder+Group+Tech+Lead.;Building.+Teaching.+Leading.;Systems.+Cloud.+Whatever+it+takes.)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<hr/>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Pluggamaro">
-    <img src="https://komarev.com" alt="Profile views">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Followers">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Repositories">
-  </a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Pluggamaro&color=FF6B35&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+[![committers.top badge](https://user-badge.committers.top/south_africa/Pluggamaro.svg)](https://committers.top/south_africa)
+&nbsp;
+[![WakaTime](https://wakatime.com/badge/user/dddb4f31-40cf-4cc3-8ab4-60495e37689b.svg)](https://wakatime.com/@dddb4f31-40cf-4cc3-8ab4-60495e37689b)
+&nbsp;
+![Repos](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FPluggamaro%2FPluggamaro%2Fmain%2Fdata%2Frepo-count-badge.json&style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/Pluggamaro">
-    <img src="https://vercel.app" alt="Pluggamaro's GitHub stats">
-  </a>
-</p>
+<br/>
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=Pluggamaro&mode=daily&theme=transparent&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&currStreakNum=FF6B35&sideLabels=8B949E&sideNums=8B949E&dates=8B949E&background=00000000&card_width=500&card_height=170)](https://github.com/Pluggamaro)
 
 </div>
 
