@@ -172,13 +172,13 @@ Currently developing deeper cloud engineering skills through the **AWS Student B
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,dart,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,dart" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 * Spring Boot
@@ -192,7 +192,7 @@ Currently developing deeper cloud engineering skills through the **AWS Student B
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,html,css,js" />
+<img src="https://skillicons.dev/icons?i=flutter,html,css" />
 </p>
 
 * Flutter
