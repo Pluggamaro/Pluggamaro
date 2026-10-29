@@ -10,9 +10,9 @@
 &nbsp;
 ![Repos](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FPluggamaro%2FPluggamaro%2Fmain%2Fdata%2Frepo-count-badge.json&style=flat-square)
 &nbsp;
-<a href="https://velanizuma.netlify.app"><b>VISIT MY WEB PORTFOLIO</b></a>
 
 <br/>
+<br><a href="https://velanizuma.netlify.app"><b>VISIT MY WEB PORTFOLIO</b></a><br/>
 
 [![GitHub streak](https://streak-stats.demolab.com/?user=Pluggamaro&mode=daily&theme=transparent&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&currStreakNum=FF6B35&sideLabels=8B949E&sideNums=8B949E&dates=8B949E&background=00000000&card_width=500&card_height=170)](https://github.com/Pluggamaro)
 
